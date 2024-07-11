@@ -16,7 +16,7 @@ I understand :
  * [x] JavaScript
  * [ ] NodeJS
  * [ ] PHP
- * [x] MarkCown 
+ * [x] MarkDown 
 
 (I'm french)(je suis français)
 
