@@ -7,8 +7,7 @@ Me :
   * CSS,
   * JavaScript 
 - 🌱 I’m currently learning NodeJS
-- 💞️ I'm looking to collaborate on nothing at the moment
-- 📫 How to reach me 
+- 💞️ I'm looking to collaborate on nothing at the moment.
 - 😄 Pronouns: He
 - ⚡ Fun fact: 
 
