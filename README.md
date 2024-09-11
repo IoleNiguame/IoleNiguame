@@ -5,7 +5,8 @@ Me :
   * MarkDown,
   * HTML,
   * CSS,
-  * JavaScript 
+  * JavaScript
+  * Python
 - 🌱 I’m currently learning NodeJS
 - 💞️ I'm looking to collaborate on nothing at the moment.
 - 😄 Pronouns: He
